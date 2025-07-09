@@ -35,12 +35,6 @@ Visualizes orbit paths using 2D rendering in Pygame
 Uses basic physics and numerical methods
 ---
 
-## 📸 Demo
-
-![Thumbnail](screenshots/thumbnail.png)
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
